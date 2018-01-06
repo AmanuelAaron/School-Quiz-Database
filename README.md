@@ -1,6 +1,6 @@
 # School-Quiz-Database
 A database that represents students in a school and their grades on quizes
-#Query Functions
+# Query Functions
 Q1 - Returns every students full name and student number
 
 Q2 - Returns the number of hints each question has
